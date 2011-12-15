@@ -3,7 +3,7 @@ Contributors: ramseyp
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CEHWT5NU29FW8
 Tags: foomark, widget 
 Requires at least: 3.0
-Tested up to: 3.3-beta1-18972
+Tested up to: 3.3
 Stable tag: trunk
 
 Foomark WordPress Widget displays your Foomark bookmarks in a widget.
@@ -31,6 +31,10 @@ Foomark is a social bookmarking service. You can register for free at http://www
 2. The Foomark WordPress Widget in the Main Sidebar.
 
 == Changelog ==
+
+= 1.0.1 = 
+Corrected broken directory structure.
+Tested wih WordPress 3.3.
 
 = 1.0 =
 * Initial Release.
